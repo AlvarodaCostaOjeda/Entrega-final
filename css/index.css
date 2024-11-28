@@ -1,0 +1,132 @@
+.barraNav{
+    width: 100%;
+    background-color: #32577b;
+    margin-bottom: 10px;
+    border: 2px solid #32577b;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    height: 60px;
+    align-items: center;
+}
+
+.loginForm{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.umeds{
+    margin-right: 10px;
+}
+
+.fa-solid.fa-circle-plus.fa-shake.fa-2xl{
+    margin-right: 10px;
+}
+
+.bienvenido{
+   margin-right: auto;
+}
+
+.post{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.buscadorDiv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.resultados{
+    margin-top: 5px;
+    margin-left: 33%;
+    margin-bottom: 10px;
+}
+
+.barraLikes{
+    margin-bottom: 10px;
+}
+
+.fa-regular{
+    margin-right: 5px;
+}
+
+.fotoDelUser{
+    width: 50px;
+    height: 50px;
+}
+
+.userPanel{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.navBarMid{
+    align-items: center;
+    display: flex;
+    margin-right: 45%;
+    color: white;
+}
+
+.lead{
+    margin-left: 100px;
+    margin-bottom: 50px;
+}
+
+.col-md.post-contenido{
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: #ffffff;
+    cursor: pointer;
+}
+
+
+.col-md.post-contenido:hover{
+    background-color: #ffffff;
+    cursor: pointer;
+}
+
+.fa-solid.fa-circle-plus.fa-shake.fa-2xl:hover{
+    color: #e3e3e3;
+    cursor: pointer;
+}
+
+.fa-solid.fa-magnifying-glass.fa-2xl:hover{
+    color: #e3e3e3;
+    cursor: pointer;
+}
+
+.nombreUserLink:hover{
+    color: #4e63ff;
+    cursor: pointer;
+}
+
+.addFollow:hover{
+    color: grey;
+    cursor: pointer;
+}
+
+.fa-regular.fa-heart:hover{
+    color: #4e63ff;
+    cursor: pointer;
+}
+
+.fa-regular.fa-comment:hover{
+    color: #4e63ff;
+    cursor: pointer;
+}
+
+.openUserProfileLink:hover{
+    color: #4e63ff;
+    cursor: pointer;
+}
+
+.hoverOn:hover{
+    color: #4e63ff;
+    cursor: pointer;
+}
